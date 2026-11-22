@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" width="600" height="450">
+      <defs>
+        <linearGradient id="grad_cs-t" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" style="stop-color:#1e3a8a;stop-opacity:1" />
+          <stop offset="100%" style="stop-color:#0f172a;stop-opacity:1" />
+        </linearGradient>
+      </defs>
+      <rect width="600" height="450" fill="url(#grad_cs-t)" rx="16"/>
+      <circle cx="300" cy="180" r="80" fill="#60a5fa" opacity="0.15"/>
+      <circle cx="300" cy="180" r="50" fill="#60a5fa" opacity="0.3"/>
+      <text x="300" y="190" font-family="system-ui, sans-serif" font-size="36" fill="#60a5fa" font-weight="bold" text-anchor="middle">📦</text>
+      <text x="300" y="290" font-family="system-ui, -apple-system, sans-serif" font-size="22" fill="#ffffff" font-weight="bold" text-anchor="middle">Operating Systems & CLRS</text>
+      <text x="300" y="325" font-family="system-ui, -apple-system, sans-serif" font-size="14" fill="#94a3b8" text-anchor="middle">Pre-Owned Academic Texts</text>
+      <rect x="220" y="360" width="160" height="30" rx="15" fill="#60a5fa" opacity="0.2"/>
+      <text x="300" y="380" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#60a5fa" font-weight="600" text-anchor="middle">MultiMart Verified</text>
+    </svg>

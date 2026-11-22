@@ -1,0 +1,12 @@
+# System & Temp
+.DS_Store
+Thumbs.db
+*.log
+/tmp/
+
+# Cache
+__pycache__/
+*.pyc
+
+# Node modules if any
+node_modules/
